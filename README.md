@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+
+ <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhrdmszYW5tcmV3ajhraGk3azFoZmtobHR0aHB3OWpsN2FxMTB5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzK0fvKs3pOwpMvHNQ/giphy.gif">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZacGeo&theme=radical&show_icons=true)
 <!--
 **ZacGeo/ZacGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
