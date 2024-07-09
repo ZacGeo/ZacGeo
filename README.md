@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there I am George👋
+<ul>
+ <li>I am a junior software developer from Greece</li>
+</ul>
 
 
  <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhrdmszYW5tcmV3ajhraGk3azFoZmtobHR0aHB3OWpsN2FxMTB5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzK0fvKs3pOwpMvHNQ/giphy.gif">
