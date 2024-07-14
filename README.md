@@ -28,7 +28,7 @@
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZacGeo&theme=solarized-light&show_icons=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZacGeo&theme=swift&show_icons=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--
 **ZacGeo/ZacGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
