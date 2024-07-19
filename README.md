@@ -2,7 +2,7 @@
 <ul>
  <li>I am a junior software developer from Greece</li>
  <li>I am a currently enroll at University of Thessaly in IT and Telecommunications deparment</li>
- <li>I am curious into learning new things about developing and creating any type of projects</li>
+ <li>I am eager to learn new aspects of development and take on diverse projects.</li>
 </ul>
 
 **Technologies that i know:**
