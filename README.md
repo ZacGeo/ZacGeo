@@ -27,6 +27,27 @@ class Developer:
     def goal(self):
         return "Turn ideas into reliable, real-world software."
 ```
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ZacGeo/ZacGeo/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ZacGeo/ZacGeo/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/ZacGeo/ZacGeo/output/github-snake.svg"
+  />
+</picture>
+
+</div>
+
 
 I have a background in **Informatics and Telecommunications** and enjoy building practical projects that connect **algorithms, data, and software systems**. My work spans machine learning pipelines, data analysis, computer vision, and robotics-related development. I am particularly interested in junior **Software Developer** and **Machine Learning Engineer** opportunities.
 
@@ -62,6 +83,29 @@ I have a background in **Informatics and Telecommunications** and enjoy building
 <img width="49%" alt="Most used repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZacGeo&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
 
 </div>
+
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ZacGeo/ZacGeo/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ZacGeo/ZacGeo/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/ZacGeo/ZacGeo/output/github-snake.svg"
+  />
+</picture>
+
+</div>
+
 
 <sub>Statistics reflect available GitHub repository data; top languages measure repository code, not overall proficiency. The public card service may occasionally be rate limited.</sub>
 
