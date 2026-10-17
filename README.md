@@ -29,6 +29,27 @@ class Developer:
 ```
 <h2 align="center">🐍 Contribution Snake</h2>
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ZacGeo/ZacGeo/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ZacGeo/ZacGeo/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/ZacGeo/ZacGeo/output/github-snake.svg"
+  />
+</picture>
+
+</div>
+
 <div align="center">
 
 <picture>
@@ -85,26 +106,7 @@ I have a background in **Informatics and Telecommunications** and enjoy building
 </div>
 
 
-<h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ZacGeo/ZacGeo/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ZacGeo/ZacGeo/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/ZacGeo/ZacGeo/output/github-snake.svg"
-  />
-</picture>
-
-</div>
 
 
 <sub>Statistics reflect available GitHub repository data; top languages measure repository code, not overall proficiency. The public card service may occasionally be rate limited.</sub>
