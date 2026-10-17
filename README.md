@@ -2,21 +2,14 @@
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  guest@github:~$ whoami                                     │
-│  > SOFTWARE DEVELOPMENT  /  MACHINE LEARNING  /  ROBOTICS   │
-└──────────────────────────────────────────────────────────────┘
-```
-
-# Hi, I'm Nikos 👋
+# Hi, I'm George 👋
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2700&pause=900&color=39D353&center=true&vCenter=true&width=780&height=65&lines=Software+Development+%7C+Python+%26+C%2B%2B;Machine+Learning+%7C+PyTorch+%26+Data;Robotics+%7C+ROS+%26+Autonomous+Systems;Building%2C+Testing%2C+and+Learning" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2700&pause=900&color=39D353&center=true&vCenter=true&width=780&height=65&lines=Software+Development+%7C+Python+%26+C%2B%2B;Machine+Learning+%7C+Data;FPGA+%7C+Verilog;Building%2C+Testing%2C+and+Learning" alt="Animated introduction" />
 </a>
 
 **`$ interests --list`**  
-`Software Engineering` • `Machine Learning` • `Robotics & Autonomous Systems`
+`Software Engineering` • `Machine Learning` • `Hardware Security`
 
 </div>
 
@@ -26,10 +19,10 @@
 
 ```python
 class Developer:
-    name = "Nikos"
+    name = "George"
     background = "Informatics & Telecommunications"
-    interests = ["Software Development", "Machine Learning", "Robotics"]
-    tools = ["Python", "C++", "Java", "PyTorch", "ROS", "SQL", "Linux", "Docker"]
+    interests = ["Software Development", "Machine Learning", "Hardware Security"]
+    tools = ["Python", "C/C++", "Java", "ROS", "SQL", "Linux", "Verilog", "Javascript", "React"]
 
     def goal(self):
         return "Turn ideas into reliable, real-world software."
@@ -41,9 +34,9 @@ I have a background in **Informatics and Telecommunications** and enjoy building
 
 <div align="center">
 
-[![Languages and tools](https://skillicons.dev/icons?i=python,cpp,c,java,pytorch,sklearn,linux,docker,git,github,vscode,matlab&theme=dark&perline=6)](https://skillicons.dev)
+[![Languages and tools](https://skillicons.dev/icons?i=python,cpp,c,java,javascript,sklearn,linux,react,vscode,matlab&theme=dark&perline=5)](https://skillicons.dev)
 
-**Also working with:** SQL • NumPy • Pandas • ROS • Gazebo • MATLAB/Simulink • Scikit-learn
+**Also working with:** SQL • NumPy • Pandas • ROS • Gazebo • MATLAB/Simulink • Scikit-learn • Verilog • React • Xilinx Vivado
 
 </div>
 
