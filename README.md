@@ -50,24 +50,6 @@ class Developer:
 
 </div>
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ZacGeo/ZacGeo/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ZacGeo/ZacGeo/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/ZacGeo/ZacGeo/output/github-snake.svg"
-  />
-</picture>
-
-</div>
 
 
 I have a background in **Informatics and Telecommunications** and enjoy building practical projects that connect **algorithms, data, and software systems**. My work spans machine learning pipelines, data analysis, computer vision, and robotics-related development. I am particularly interested in junior **Software Developer** and **Machine Learning Engineer** opportunities.
