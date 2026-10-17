@@ -44,10 +44,10 @@ I have a background in **Informatics and Telecommunications** and enjoy building
 
 | Project | What it demonstrates | Technologies |
 |---|---|---|
-| **[Car Price Prediction](https://github.com/YOUR_USERNAME/YOUR_CAR_PRICE_REPO)** | Desktop tool estimating car prices with linear regression, feature preprocessing, and GUI input | Python, scikit-learn, Pandas, CustomTkinter |
-| **[Car Brand & Model Classification](https://github.com/YOUR_USERNAME/YOUR_CNN_REPO)** | CNN-based visual classification with preprocessing and data augmentation | Python, PyTorch, Torchvision |
-| **[Image Caption Generation](https://github.com/YOUR_USERNAME/YOUR_CAPTIONING_REPO)** | CNN encoder + LSTM decoder for generating descriptions of images | Python, PyTorch |
-| **[Autonomous Robotics / Navigation](https://github.com/YOUR_USERNAME/YOUR_ROBOTICS_REPO)** | Control, localization, or autonomous navigation experiments | Python, ROS, Gazebo, C++ |
+| **[keno1](https://github.com/YOUR_USERNAME/YOUR_CAR_PRICE_REPO)** | Desktop tool estimating car prices with linear regression, feature preprocessing, and GUI input | Python, scikit-learn, Pandas, CustomTkinter |
+| **[keno2](https://github.com/YOUR_USERNAME/YOUR_CNN_REPO)** | CNN-based visual classification with preprocessing and data augmentation | Python, PyTorch, Torchvision |
+| **[keno3](https://github.com/YOUR_USERNAME/YOUR_CAPTIONING_REPO)** | CNN encoder + LSTM decoder for generating descriptions of images | Python, PyTorch |
+| **[keno4](https://github.com/YOUR_USERNAME/YOUR_ROBOTICS_REPO)** | Control, localization, or autonomous navigation experiments | Python, ROS, Gazebo, C++ |
 
 > **Repository links are placeholders**. Replace each link with your real, public repository URL before publishing. You can remove projects you do not plan to publish.
 
@@ -58,8 +58,8 @@ I have a background in **Informatics and Telecommunications** and enjoy building
 
 <div align="center">
 
-<img width="49%" alt="GitHub activity statistics" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
-<img width="49%" alt="Most used repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
+<img width="49%" alt="GitHub activity statistics" src="https://github-readme-stats.vercel.app/api?username=ZacGeo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
+<img width="49%" alt="Most used repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZacGeo&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
 
 </div>
 
@@ -85,6 +85,6 @@ I have a background in **Informatics and Telecommunications** and enjoy building
 
 `$ echo "Thanks for visiting — keep building."`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-39d353?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-39d353?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/ZacGeo)
 
 </div>
