@@ -1,45 +1,97 @@
-## Hi there I am George👋
-<ul>
- <li>I am a junior software developer from Greece</li>
- <li>I am a currently enroll at University of Thessaly in IT and Telecommunications deparment</li>
- <li>I am eager to learn new aspects of development and take on diverse projects.</li>
-</ul>
+<!-- Replace YOUR_USERNAME with your exact GitHub username throughout this file. -->
 
-**Technologies that i know:**
- 
- ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37 ) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)     ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)       ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)   ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white ) 	![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)  
+<div align="center">
 
- 
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  guest@github:~$ whoami                                     │
+│  > SOFTWARE DEVELOPMENT  /  MACHINE LEARNING  /  ROBOTICS   │
+└──────────────────────────────────────────────────────────────┘
+```
 
-**Languages that i know:**
+# Hi, I'm Nikos 👋
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2700&pause=900&color=39D353&center=true&vCenter=true&width=780&height=65&lines=Software+Development+%7C+Python+%26+C%2B%2B;Machine+Learning+%7C+PyTorch+%26+Data;Robotics+%7C+ROS+%26+Autonomous+Systems;Building%2C+Testing%2C+and+Learning" alt="Animated introduction" />
+</a>
 
-**IDEs:**  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**`$ interests --list`**  
+`Software Engineering` • `Machine Learning` • `Robotics & Autonomous Systems`
 
+</div>
 
-**Design:**  
+---
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### `> about_me.py`
 
+```python
+class Developer:
+    name = "Nikos"
+    background = "Informatics & Telecommunications"
+    interests = ["Software Development", "Machine Learning", "Robotics"]
+    tools = ["Python", "C++", "Java", "PyTorch", "ROS", "SQL", "Linux", "Docker"]
 
-**Forum:** 
+    def goal(self):
+        return "Turn ideas into reliable, real-world software."
+```
 
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+I have a background in **Informatics and Telecommunications** and enjoy building practical projects that connect **algorithms, data, and software systems**. My work spans machine learning pipelines, data analysis, computer vision, and robotics-related development. I am particularly interested in junior **Software Developer** and **Machine Learning Engineer** opportunities.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZacGeo&theme=swift&show_icons=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-<!--
-**ZacGeo/ZacGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `> ls ./tech-stack`
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Languages and tools](https://skillicons.dev/icons?i=python,cpp,c,java,pytorch,sklearn,linux,docker,git,github,vscode,matlab&theme=dark&perline=6)](https://skillicons.dev)
+
+**Also working with:** SQL • NumPy • Pandas • ROS • Gazebo • MATLAB/Simulink • Scikit-learn
+
+</div>
+
+### `> cat ./featured-projects.md`
+
+| Project | What it demonstrates | Technologies |
+|---|---|---|
+| **[Car Price Prediction](https://github.com/YOUR_USERNAME/YOUR_CAR_PRICE_REPO)** | Desktop tool estimating car prices with linear regression, feature preprocessing, and GUI input | Python, scikit-learn, Pandas, CustomTkinter |
+| **[Car Brand & Model Classification](https://github.com/YOUR_USERNAME/YOUR_CNN_REPO)** | CNN-based visual classification with preprocessing and data augmentation | Python, PyTorch, Torchvision |
+| **[Image Caption Generation](https://github.com/YOUR_USERNAME/YOUR_CAPTIONING_REPO)** | CNN encoder + LSTM decoder for generating descriptions of images | Python, PyTorch |
+| **[Autonomous Robotics / Navigation](https://github.com/YOUR_USERNAME/YOUR_ROBOTICS_REPO)** | Control, localization, or autonomous navigation experiments | Python, ROS, Gazebo, C++ |
+
+> **Repository links are placeholders**. Replace each link with your real, public repository URL before publishing. You can remove projects you do not plan to publish.
+
+<!-- Optional screenshot: add images/project-showcase.png and uncomment the next line. -->
+<!-- ![Selected project screenshots](images/project-showcase.png) -->
+
+### `> github --stats`
+
+<div align="center">
+
+<img width="49%" alt="GitHub activity statistics" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
+<img width="49%" alt="Most used repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
+
+</div>
+
+<sub>Statistics reflect available GitHub repository data; top languages measure repository code, not overall proficiency. The public card service may occasionally be rate limited.</sub>
+
+### `> ./contribution-snake.sh`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <img alt="Snake animation of GitHub contributions" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+</picture>
+
+<sub>The animation is generated by a scheduled GitHub Actions workflow and appears after its first successful run.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+`$ echo "Thanks for visiting — keep building."`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-39d353?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/YOUR_USERNAME)
+
+</div>
