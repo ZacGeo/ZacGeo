@@ -71,7 +71,7 @@ I have a background in **Informatics and Telecommunications** and enjoy building
 | **[keno1](https://github.com/YOUR_USERNAME/YOUR_CAR_PRICE_REPO)** | Desktop tool estimating car prices with linear regression, feature preprocessing, and GUI input | Python, scikit-learn, Pandas, CustomTkinter |
 | **[keno2](https://github.com/YOUR_USERNAME/YOUR_CNN_REPO)** | CNN-based visual classification with preprocessing and data augmentation | Python, PyTorch, Torchvision |
 | **[keno3](https://github.com/YOUR_USERNAME/YOUR_CAPTIONING_REPO)** | CNN encoder + LSTM decoder for generating descriptions of images | Python, PyTorch |
-| **[keno4](https://github.com/YOUR_USERNAME/YOUR_ROBOTICS_REPO)** | Control, localization, or autonomous navigation experiments | Python, ROS, Gazebo, C++ |
+| **[Uni](https://github.com/YOUR_USERNAME/YOUR_ROBOTICS_REPO)** | A repo where I have stored all my university assigments. Some of them aren't only from the University of Thessaly, but also from the University of Crete | Python, Ray-Tracing, C/C++ |
 
 > **Repository links are placeholders**. Replace each link with your real, public repository URL before publishing. You can remove projects you do not plan to publish.
 
