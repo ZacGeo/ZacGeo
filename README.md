@@ -68,7 +68,7 @@ I have a background in **Informatics and Telecommunications** and enjoy building
 
 | Project | What it demonstrates | Technologies |
 |---|---|---|
-| **[keno1](https://github.com/YOUR_USERNAME/YOUR_CAR_PRICE_REPO)** | Desktop tool estimating car prices with linear regression, feature preprocessing, and GUI input | Python, scikit-learn, Pandas, CustomTkinter |
+| **[Compiler_for_cpp](https://github.com/ZacGeo/Compiler_for_cpp)** | This reposiotry contains a compiler that was made to compile a sudo language of cpp (Another project from University of Thessaly) | Yacc, C, Flex, Bison, ASM |
 | **[AES_implementaion_to_FPGA](https://github.com/ZacGeo/AES_implementaion_to_FPGA)** |The repository contains the FPGA side of the thesis project: synthesizable RTL, simulation testbenches and constraints. | Verilog, Vivado, FPGA |
 | **[AES_implementaion_client/server](https://github.com/ZacGeo/AES_implementaion_client-server)** | This repository contains the software part of the thesis project. The goal of the software is to show how AES encryption can be integrated into a small TCP communication system and, at the same time, make the difference between plaintext and encrypted traffic directly observable. | C/C++, sockets, threads |
 | **[Uni](https://github.com/YOUR_USERNAME/YOUR_ROBOTICS_REPO)** | A repo where I have stored all my university assigments. Some of them aren't only from the University of Thessaly, but also from the University of Crete | Python, Ray-Tracing, C/C++ |
