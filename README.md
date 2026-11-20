@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1100&color=45E8CE&center=true&vCenter=true&width=790&lines=%24+building+software+that+solves+real+problems;%24+machine+learning+%7C+hardware+security;%24+Python+%7C+C%2B%2B+%7C+PyTorch+%7C+ROS;%24+FPGA+%7C+Verilog+%7C+Vivado)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typivg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1100&color=45E8CE&center=true&vCenter=true&width=790&lines=%24+building+software+that+solves+real+problems;%24+machine+learning+%7C+hardware+security;%24+Pythng-son+%7C+C%2B%2B+%7C+PyTorch+%7C+ROS;%24+FPGA+%7C+Verilog+%7C+Vivado)](https://git.io/typing-svg)
 
 **Software Development** &nbsp;•&nbsp; **Machine Learning** &nbsp;•&nbsp; **Hardware Security**
 
@@ -14,7 +14,6 @@
 
 ```python
 class Developer:
-    name = "George"
     github = "ZacGeo"
     background = "Informatics & Telecommunications"
     focus = ["Software Development", "Machine Learning", "Hardware Security"]
