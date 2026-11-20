@@ -67,7 +67,15 @@ The four cards above highlight my published university and engineering repositor
 <div align="center">
 
 <!-- Generated on the first successful run of profile-assets.yml -->
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D GitHub contribution graph" />
+
+<div align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-green.svg"
+    alt="Dark 3D GitHub Contribution City"
+    width="100%"
+  />
+</div>
+
 
 </div>
 
