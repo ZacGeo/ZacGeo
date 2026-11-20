@@ -4,16 +4,16 @@
 
 <br>
 
-[![Typing SVG](https://readme-typivg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1100&color=45E8CE&center=true&vCenter=true&width=790&lines=%24+building+software+that+solves+real+problems;%24+machine+learning+%7C+hardware+security;%24+Pythng-son+%7C+C%2B%2B+%7C+PyTorch+%7C+ROS;%24+FPGA+%7C+Verilog+%7C+Vivado)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1100&color=45E8CE&center=true&vCenter=true&width=790&lines=%24+building+software+that+solves+real+problems;%24+machine+learning+%7C+hardware+security;%24+Python+%7C+C%2B%2B+%7C+PyTorch+%7C+ROS;%24+FPGA+%7C+Verilog+%7C+Vivado)](https://git.io/typing-svg)
 
-**Software Development** &nbsp;•&nbsp; **Machine Learning** &nbsp;•&nbsp; **Hardware Security**
+**Software Engineer**
 
 </div>
 
 ## `> ./about_me.py`
 
 ```python
-class Developer:
+class SoftwareEngineer:
     github = "ZacGeo"
     background = "Informatics & Telecommunications"
     focus = ["Software Development", "Machine Learning", "Hardware Security"]
@@ -66,15 +66,7 @@ The four cards above highlight my published university and engineering repositor
 <div align="center">
 
 <!-- Generated on the first successful run of profile-assets.yml -->
-
-<div align="center">
-  <img
-    src="./profile-3d-contrib/profile-night-green.svg"
-    alt="Dark 3D GitHub Contribution City"
-    width="100%"
-  />
-</div>
-
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D GitHub contribution graph" />
 
 </div>
 
